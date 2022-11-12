@@ -1,0 +1,3 @@
+Name: Ralph
+Account Number: 646573
+Money: 100000.0
